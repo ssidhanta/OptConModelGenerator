@@ -1,4 +1,4 @@
-# TrainingModelGenerator
+# OptConModelGenerator
 
 Please refer to the technical paper Consistency.pdf in the folder.
 
